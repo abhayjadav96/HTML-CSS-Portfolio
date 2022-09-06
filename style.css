@@ -116,6 +116,27 @@
     width: 300px;
     background-color: black;
     border-radius: 10px;
+    background-image: url(media/Bootstrap_Image.jpg);
+    background-size: contain;
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill1_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill1_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 
 .skill2{
@@ -123,6 +144,27 @@
     width: 300px;
     background-color: black;
     border-radius: 10px;
+    background-image: url(media/html-css.jpg);
+    background-size: contain;
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill2_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill2_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 
 .skill3{
@@ -130,8 +172,28 @@
     width: 300px;
     background-color: black;
     border-radius: 10px;
+    background-image: url(media/JQuery_Image.jpg);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
 }
 
+.skill3_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill3_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
 .section3{
         
     height: 50vh;
@@ -147,6 +209,27 @@
     width: 300px;
     background-color: black;
     border-radius: 10px;
+    background-image: url(media/Mongodb_Image.jpg);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill4_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill4_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 
 .skill5{
@@ -154,6 +237,27 @@
     width: 300px;
     background-color: black;
     border-radius: 10px;
+    background-image: url(media/Nextjs_Image.jpg);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill5_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill5_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 
 .skill6{
@@ -161,4 +265,120 @@
     width: 300px;
     background-color: black;
     border-radius: 10px;
+    background-image: url(media/nodejs.jpg);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill6_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill6_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+
+.section4{
+        
+    height: 50vh;
+    width: 100%;
+    background-color: rgb(185, 185, 185, 0.3);
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.skill7{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+    background-image: url(media/Reactjs.jpg);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill7_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill7_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.skill8{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+    background-image: url(media/ViewJS_Image.png);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill8_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill8_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.skill9{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+    background-image: url(media/cyber.jpg);
+    background-size: contain;    
+    display: flex;
+    align-items:flex-end;
+}
+
+.skill9_details{
+
+    height: 50px;
+    width: 100%;
+    background-color: rgba(60, 60, 60, .8);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill9_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
 }
