@@ -85,3 +85,80 @@
 
     color: black;
 }
+
+.github{
+    color: black;
+}
+
+.heading{
+
+    height: 150px;
+    width: 100%;
+    background-color: rgb(185, 185, 185, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+
+.section2{
+        
+    height: 50vh;
+    width: 100%;
+    background-color: rgb(185, 185, 185, 0.3);
+    display: flex;
+    justify-content: space-around;
+}
+
+.skill1{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.skill2{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.skill3{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.section3{
+        
+    height: 50vh;
+    width: 100%;
+    background-color: rgb(185, 185, 185, 0.3);
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.skill4{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.skill5{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.skill6{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
